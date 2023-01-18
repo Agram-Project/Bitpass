@@ -1,0 +1,113 @@
+[
+    {
+      "_proto": "ICON",
+      "val": {
+        "title": "BitPass",
+        "description": "BitPass description",
+        "aux": "BitPass aux info",
+        "media": [
+          {
+            "type": "image",
+            "url": "ipfs://QmWPiAWUP2UegLhDvS8nYW9bNRPtoZ1b13xmES7etPYG2w"
+          }
+        ],
+        "pass.json": {
+          "organizationName": "",
+          "logoText": "",
+          "headerFields": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ],
+          "primaryFields": [],
+          "secondaryFields": [],
+          "auxiliaryFields": [],
+          "backFields": [],
+          "foregroundColor": "rgb(0,0,0)",
+          "backgroundColor": "rgb(255,255,255)"
+        },
+        "passImages": {
+          "logo.png": "ipfs://QmVEQfhQrvW3kALtJH7yymTpZUU8ZNH4GV55bhTgLza9CW",
+          "logo@2x.png": "ipfs://QmVEQfhQrvW3kALtJH7yymTpZUU8ZNH4GV55bhTgLza9CW",
+          "background.png": "",
+          "background@2x.png": "",
+          "strip.png": "ipfs://QmeKxerRjDMvuvrnuFm3JmkzKb3YZSsxdDD3kioWxAetMr",
+          "strip@2x.png": "ipfs://QmeKxerRjDMvuvrnuFm3JmkzKb3YZSsxdDD3kioWxAetMr",
+          "footer.png": "ipfs://QmQYTgzK22TwTLBCcekKQX4QLVyvQ8Db7tUvcGiQ7s4xUw",
+          "footer@2x.png": "ipfs://QmQYTgzK22TwTLBCcekKQX4QLVyvQ8Db7tUvcGiQ7s4xUw",
+          "thumbnail.png": "ipfs://QmPBb7i1PDrVKoZaWts6s7fr1Y24Q81J5ThroxdQTzztvZ",
+          "thumbnail@2x.png": "ipfs://QmPBb7i1PDrVKoZaWts6s7fr1Y24Q81J5ThroxdQTzztvZ",
+          "icon.png": "ipfs://QmerQA3uMy8jvLPPg6YA7zs9eCzi98YetbT4VKv1jsHrRQ",
+          "icon@2x.png": "",
+          "icon@3x.png": "",
+          "logo@3x.png": "",
+          "strip@3x.png": "",
+          "thumbnail@3x.png": "",
+          "footer@3x.png": "",
+          "background@3x.png": "",
+          "icon": "ipfs://QmerQA3uMy8jvLPPg6YA7zs9eCzi98YetbT4VKv1jsHrRQ"
+        },
+        "schemaVersion": 4,
+        "icon": "ipfs://QmerQA3uMy8jvLPPg6YA7zs9eCzi98YetbT4VKv1jsHrRQ",
+        "summary": {
+          "title": "title",
+          "cards": [
+            {
+              "style": "card_Title",
+              "type": "",
+              "collapsed": false,
+              "title": "card_Title",
+              "description": "card_description"
+            },
+            {
+              "style": "card_dustPass",
+              "type": "",
+              "collapsed": false,
+              "title": "card_Title",
+              "cardImg": null,
+              "cardElements": []
+            },
+            {
+              "style": "card_microPass",
+              "type": "",
+              "collapsed": false,
+              "title": "card_Title",
+              "description": "",
+              "cardImg": null,
+              "cardElements": []
+            },
+            {
+              "style": "card_miniPass",
+              "type": "",
+              "collapsed": false,
+              "title": "card_Title",
+              "description": "",
+              "cardImg": null,
+              "cardElements": []
+            },
+            {
+              "style": "card_macroPass",
+              "type": "",
+              "collapsed": false,
+              "title": "card_Title",
+              "description": "Certificados del producto",
+              "cardImg": null,
+              "cardElements": []
+            }
+          ]
+        },
+        "updated": 1671606702109,
+        "specific": {
+          "specific": {
+            "_proto": "Certificate.",
+            "btmlPart": 1
+          },
+          "_proto": "Concept",
+          "btmlPart": 2
+        },
+        "_proto": "Index",
+        "btmlPart": 5
+      }
+    }
+  ]
